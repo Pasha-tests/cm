@@ -1,0 +1,2 @@
+# cm
+gitStream configuration repository
